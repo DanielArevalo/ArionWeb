@@ -1,0 +1,163 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="solicitud.master.cs" Inherits="Site1" %>
+
+<%@ Register Src="../Controles/header.ascx" TagName="header" TagPrefix="uc1" %>
+<%@ Register Src="../Controles/ctlauditoria.ascx" TagName="auditoria" TagPrefix="uc2" %>
+<%@ Register Src="../Controles/menu.ascx" TagName="menu" TagPrefix="uc3" %>
+<!DOCTYPE HTML>
+<html>
+<head id="Head1" runat="server">
+    <title>Financial Software</title>
+    <link href="~/Styles/Styles.css" rel="stylesheet" type="text/css" />    
+</head>
+<body class="master">
+    <script src="<%=ResolveUrl("~/Scripts/JScript.js")%>"></script>
+    <script src="<%=ResolveUrl("~/Scripts/jquery-1.8.3.min.js")%>"></script>
+    <script src="<%=ResolveUrl("~/Scripts/jquery-ui-1.9.2.min.js")%>"></script>
+    <script src="<%=ResolveUrl("~/Scripts/jquery.numeric.js")%>"></script>
+    <script src="<%=ResolveUrl("~/Scripts/PCLBryan.js")%>"></script>
+
+    <script type="text/javascript">
+        function autoResize(id) {
+            var newheight;
+            if (document.getElementById) {
+                newheight = document.getElementById(id).contentWindow.document.body.scrollHeight;
+            }
+            document.getElementById(id).height = (newheight) + "px";
+        }
+
+        function EvitarClickeoLocos() {
+            if (contadorClickGuardar == 0) {
+                contadorClickGuardar += 1;
+                return true;
+            }
+            return false;
+        }
+
+        function EvitarClickeoLocosConsulta() {
+            if (contadorClickConsulta == 0) {
+                contadorClickConsulta += 1;
+                return true;
+            }
+            return false;
+        }
+
+        function EvitarClickeoLocosEliminar() {
+            if (contadorClickEliminar == 0) {
+                contadorClickEliminar += 1;
+                return true;
+            }
+            return false;
+        }
+
+        var contadorClickGuardar = 0;
+        var contadorClickConsulta = 0;
+        var contadorClickEliminar = 0;
+        $(document).ready(function () {
+
+            // Algo global para evitar el trolleo de que clickeen al boton de guardar 100 veces y 100 veces guarde,
+            // Ya me han pedido mucho esto asi que lo globalizo
+            // Cuando el servidor responda el 'contadorClickGuardar' volvera a estar en 0 asi se podra clickear el boton solo luego que el servidor responda :D
+            $("#btnGuardar").click(EvitarClickeoLocos);
+            $("#btnConsultar").click(EvitarClickeoLocosConsulta);
+            $("#btnEliminar").click(EvitarClickeoLocosEliminar);
+
+            // Abre una ventana en blanco cuando es clickeado el click derecho abrir nueva ventana
+            // Esperando luz verde porque no me gusta y se ve muy incomodo poner esto
+            //for (var els = document.getElementsByTagName('a'), i = els.length; i--;) {
+            //    var href = els[i].href;
+            //    els[i].href = 'javascript:void(0);';
+            //    els[i].onclick = (function (el, href) {
+            //        return function () {
+            //            window.location.href = href;
+            //        };
+            //    })(els[i], href);
+            //}
+        });
+    </script>
+    <form id="Form1" runat="server">
+    <uc1:header ID="header1" runat="server" />
+    <div class="container">
+        <div class="colIzq fl-lt">
+            <uc3:menu ID="menu1" runat="server" />
+        </div>
+        <div class="colDer fl-lt">
+            <div class="breadcrumb">
+                <span>
+                    <asp:HyperLink runat="server" ID="home" NavigateUrl="~/General/Global/modulos.aspx"
+                        Text="Inicio" /></span><asp:Label ID="lblModulo" runat="server" Text="Fabrica de Creditos" />
+            </div>
+            <h2>
+                <asp:Label ID="lblOpcion" runat="server" /></h2>
+            <table>
+                <tr>
+                    <td style="text-align: left; width: 40%">
+                        <strong>Cliente:</strong>
+                        <asp:Label ID="lblNombresApellidos" runat="server"></asp:Label>
+                    </td>
+                    <td>
+                    </td>
+                    <td style="text-align: left; width: 20%">
+                        <strong>Identificación:</strong>
+                        <asp:Label ID="lblIdCliente" runat="server"></asp:Label><asp:Label ID="lblCod_Cliente"
+                            runat="server" Visible="False"></asp:Label>
+                    </td>
+                    <td style="text-align: right; width: 40%">
+                        <div class="herramientas">
+                            <asp:DropDownList ID="ddlAcciones" runat="server" OnSelectedIndexChanged="ddlAcciones_SelectedIndexChanged" />
+                            <asp:ImageButton runat="server" ID="btnGuardar" ImageUrl="~/Images/btnGuardar.jpg"
+                                ValidationGroup="vgGuardar" OnClick="btnGuardar_Click" />
+                            <asp:ImageButton runat="server" ID="btnNuevo" ImageUrl="~/Images/btnNuevo.jpg" OnClick="btnNuevo_Click" />
+                            <asp:ImageButton runat="server" ID="btnEditar" ImageUrl="~/Images/btnEditar.jpg"
+                                OnClick="btnEditar_Click" />
+                            <asp:ImageButton runat="server" ID="btnEliminar" ImageUrl="~/Images/btnEliminar.jpg"
+                                OnClick="btnEliminar_Click" />
+                            <asp:ImageButton runat="server" ID="btnConsultar" ImageUrl="~/Images/btnConsultar.jpg"
+                                ValidationGroup="vgConsultar" OnClick="btnConsultar_Click" />
+                            <asp:ImageButton runat="server" ID="btnCancelar" ImageUrl="~/Images/btnCancelar.jpg"
+                                OnClick="btnCancelar_Click" />
+                            <asp:ImageButton runat="server" ID="btnLimpiar" ImageUrl="~/Images/btnLimpiar.jpg"
+                                OnClick="btnLimpiar_Click" />
+                        </div>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            </table>            
+            <div>
+                <asp:Panel ID="plError" runat="server" Visible="False" BorderColor="Red" BorderStyle="Solid"
+                    BorderWidth="1px">
+                    <asp:Label ID="lblError" runat="server" Style="text-align: center" Visible="False"
+                        Width="100%" ForeColor="Red"></asp:Label>
+                </asp:Panel>
+            </div>
+            <div class="clear">
+            </div>
+            <img src="<%=ResolveUrl("~/Images/loading.gif")%>" name="imgLoading" id="imgLoading" 
+                class="loading"/>
+            <asp:ContentPlaceHolder ID="cphMain" runat="server">
+            </asp:ContentPlaceHolder>
+            <table>
+                <tr>
+                    <td class="style1">
+                        <asp:ImageButton ID="btnAtras" runat="server" ImageUrl="~/Images/iconAnterior.jpg"
+                            OnClick="btnAtras_Click" />
+                    </td>
+                    <td class="style1">
+                        <asp:ImageButton ID="btnAdelante" runat="server" OnClick="btnAdelante_Click" ValidationGroup="vgGuardar" />
+                    </td>
+                    <td class="style1">
+                        <asp:ImageButton ID="btnAdelante2" runat="server" OnClick="btnAdelante2_Click" ValidationGroup="vgGuardar" />
+                    </td>
+                </tr>
+            </table>
+            <asp:HiddenField ID="hfObj" runat="server" />
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    <footer>
+    ©2014 Financial Web
+    </footer>
+    </form>
+</body>
+</html>

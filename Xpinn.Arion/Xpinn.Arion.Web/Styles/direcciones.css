@@ -1,0 +1,90 @@
+﻿body 
+{
+	font-family: "Verdana";
+	font-size: 9pt;
+	color: #003300;
+	margin:1px 6px;
+}
+
+.cajaTextoNumero
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:28px;
+	vertical-align:middle
+}
+
+.comboDireccionVia
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:125px;
+	vertical-align:middle
+}	
+
+.comboLetras
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:45px;
+	vertical-align:middle
+}	
+
+.comboBis
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:45px;
+	vertical-align:middle
+}	
+
+.comboSentido
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:65px;
+	vertical-align:middle
+}	
+
+.comboDireccionManzana
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:110px;
+	vertical-align:middle
+}	
+
+.cajaTextoDireccion
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:330px;
+	vertical-align:middle
+}	
+
+.vinculo
+{
+ display:block;
+ vertical-align:middle;
+ width:auto;
+ padding:2px;
+ border: solid 1px #E1E6FF;
+ font-size:7pt;
+ }
+
+.cajaTextoGen
+{
+	font-family: "Verdana";
+	font-size: 8pt;
+	color: #333333;
+	width:95px;
+	vertical-align:middle
+}	
+

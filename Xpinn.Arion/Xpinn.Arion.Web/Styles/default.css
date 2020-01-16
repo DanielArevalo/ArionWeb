@@ -1,0 +1,136 @@
+﻿body {
+	font: 85% "Trebuchet MS", Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: #0D0F6F url("../img/background.jpg") repeat-x fixed;
+	color: #E0E3EF;
+}
+body * {
+	text-align: left;
+}
+p {
+	font-size: 1em;
+}
+div {
+	font-size: 1em;
+}
+h1, h2, h3, h4 {
+	font-family: "Arial Rounded MT Bold", Arial, Helvetica, sans-serif;
+	overflow: hidden;
+}
+h2, h3, h4 {
+	background: #504F7F; /* url("../img/background-heading.jpg") repeat-x;*/
+	margin: -3px -3px 6px -3px;
+	padding: 3px;
+	border-top: 1px solid #cccddd;
+	border-bottom: 1px solid #cccddd;
+}
+a:link, a:visited {
+	color: #AFBDFF;
+	text-decoration: none;
+}
+a:hover {
+	color: #DF4337;
+	text-decoration: underline;
+}
+a img {
+	border: none;
+}
+pre {
+	overflow: auto;
+	width: 98.5%;
+	background: #050c44;
+	padding: 1em 3px 1em 3px;
+	border: 1px solid #99e;
+	max-height: 300px;
+}
+ul.spacedlist li {
+	margin-bottom: 1em;
+}
+div.breadcrumbs {
+	font: 1.2em "Lucida Console", "Courier New", monospace;
+}
+#outer {
+	width: 62em;
+	margin: 12px auto;
+	border: 1px solid #cccddd;
+	background: #000 url("../img/background-outer.jpg") repeat-x fixed;
+	position: relative;
+}
+#header {
+	background-color: #141414;
+	color: #fff;
+	border-bottom: 1px solid #cccddd;
+}
+#header h1 {
+	margin: 0;
+	line-height: 80px;
+	height: 80px;
+	padding-left: 6px;
+}
+
+#header h1 #sitename {
+	float: right;
+	height: 80px;
+	width: 350px;
+	text-indent: -1000px;
+	background-image: url("../img/blue_logo.png");
+	background-repeat: no-repeat;
+	background-position: top right;
+}
+
+#header #twitter {
+	background-image: url("../img/twitter.png");
+	background-repeat: no-repeat;
+	width: 105px;
+	height: 80px;
+	text-indent: -1000px;
+	display: block;
+	float: left;
+}
+
+#inner {
+	position: relative;
+}
+#skipcontents {
+	display: none;
+}
+#contents {
+	margin: 0 0 0 13em;
+	padding: 3px;
+	border-left: 1px solid #B5EDBC;
+	min-height: 22em;
+}
+#navigation {
+	font: 105% Arial, sans-serif;
+	position: absolute;
+	top: 0;
+	width: 13em;
+}
+#navigation ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+#navigation ul ul {
+	margin-left: 12px;
+}
+#navigation li {
+	padding: 3px;
+}
+#navigation li a {
+	text-decoration: none;
+	display: block;
+	width: 100%;
+}
+#footer {
+	border-top: 2px solid #fbc;
+	padding: 12px;
+	position: relative;
+}
+#validxhtml {
+	position: absolute;
+	top: 6px;
+	right: 0;
+}

@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Xpinn.Arion.Web", "Xpinn.Arion.Web", "{BAF66DC1-E394-4424-80ED-4E6C35E99B89}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}|Xpinn.Util.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Xpinn.Arion.Web"
+		Debug.AspNetCompiler.PhysicalPath = "Xpinn.Arion.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Xpinn.Arion.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Xpinn.Arion.Web"
+		Release.AspNetCompiler.PhysicalPath = "Xpinn.Arion.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Xpinn.Arion.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "32189"
+		SlnRelativePath = "Xpinn.Arion.Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(SvnOrigin) = preProject
+		@Keys = Enlist,Svn.Uri
+		Enlist = Required
+		Svn.Uri = Xpinn.Arion.Web/
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{54EDF4B3-0590-4368-9036-6C946CB9E46C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{6D4A10F1-1D86-4B2D-A959-651F8FF2C927}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0769734A-E75B-4846-AD15-B4922E600B10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Util", "Util", "{4AC82135-2C9D-4761-AB42-F9A51695C0DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{E5C2DD08-2405-436F-96B2-FCF555733FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpinn.Util", "Xpinn.Util\Xpinn.Util.csproj", "{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Xpinn.Atencion.Web", "Xpinn.Atencion.Web", "{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}|Xpinn.Util.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Xpinn.Atencion.Web"
+		Debug.AspNetCompiler.PhysicalPath = "Xpinn.Atencion.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Xpinn.Atencion.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Xpinn.Atencion.Web"
+		Release.AspNetCompiler.PhysicalPath = "Xpinn.Atencion.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Xpinn.Atencion.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "32192"
+		SlnRelativePath = "Xpinn.Atencion.Web\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Description = -
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Release|x64.ActiveCfg = Debug|Any CPU
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89}.Release|x86.ActiveCfg = Debug|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|x64.Build.0 = Debug|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|x86.ActiveCfg = Debug|x86
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Debug|x86.Build.0 = Debug|x86
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|x64.ActiveCfg = Release|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|x64.Build.0 = Release|Any CPU
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|x86.ActiveCfg = Release|x86
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4}.Release|x86.Build.0 = Release|x86
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Release|x64.ActiveCfg = Debug|Any CPU
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BAF66DC1-E394-4424-80ED-4E6C35E99B89} = {E5C2DD08-2405-436F-96B2-FCF555733FEE}
+		{1DC267F2-1877-46D6-AF5E-F92EB286DFC4} = {4AC82135-2C9D-4761-AB42-F9A51695C0DD}
+		{6385D11D-EC94-4F53-8B0D-5970BD97BA4B} = {E5C2DD08-2405-436F-96B2-FCF555733FEE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {083FF040-6253-4F03-B629-AA7A4C9F848B}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

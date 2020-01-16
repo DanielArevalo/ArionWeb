@@ -1,0 +1,3 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=PAGE_005CAPORTES_005CBIOMETRIA_005C_0020_002B_0020DATA_005FURI_0020_002B_0020/@EntryIndexedValue">Page\Aportes\Biometria\ + data_uri + </s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=PAGE_005CAPORTES_005CBIOMETRIA_005C_0020_002B_0020DATA_005FURI_0020_002B_0020/@EntryIndexedValue">Page\Aportes\Biometria\ + data_uri + </s:String></wpf:ResourceDictionary>
