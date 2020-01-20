@@ -208,7 +208,7 @@ namespace Xpinn.FabricaCreditos.Data
                                     FROM HISTORICOTASA
                                     WHERE IDHISTORICO  =" + cod;
                         connection.Open();
-                        GuardarConexion(cmdTransaccionFactory,dbConnectionFactory.dbProveedorFactory.CreateCommand(), connection, pUsuario.codusuario);
+                        
                         dbConnectionFactory.CerrarConexion(connection);
                         connection.Open();
                         cmdTransaccionFactory.Connection = connection;
@@ -270,7 +270,7 @@ namespace Xpinn.FabricaCreditos.Data
                         cmdTransaccionFactory.Parameters.Add(PVALOR);
 
                         connection.Open();
-                        GuardarConexion(cmdTransaccionFactory, dbConnectionFactory.dbProveedorFactory.CreateCommand(), connection, pUsuario.codusuario);
+                        
                         dbConnectionFactory.CerrarConexion(connection);
                         connection.Open();
                         cmdTransaccionFactory.Connection = connection;
@@ -331,7 +331,7 @@ namespace Xpinn.FabricaCreditos.Data
                         cmdTransaccionFactory.Parameters.Add(PVALOR);
 
                         connection.Open();
-                        GuardarConexion(cmdTransaccionFactory, dbConnectionFactory.dbProveedorFactory.CreateCommand(), connection, pUsuario.codusuario);
+                        
                         cmdTransaccionFactory.Connection = connection;
                         cmdTransaccionFactory.CommandType = CommandType.StoredProcedure;
                         cmdTransaccionFactory.CommandText = "USP_XPINN_CRE_HISTORICOTASA";

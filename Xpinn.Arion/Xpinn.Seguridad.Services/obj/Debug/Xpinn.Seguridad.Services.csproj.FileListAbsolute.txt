@@ -1,0 +1,68 @@
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Services.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Services.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.FabricaCreditos.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.RecaudosMasivos.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Business.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Util.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Data.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Imagenes.Data.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Microsoft.Web.Services3.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Data.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Oracle.DataAccess.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Ahorros.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Icetex.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Tesoreria.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.FabricaCreditos.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.RecaudosMasivos.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Business.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Util.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Data.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Imagenes.Data.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Data.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Ahorros.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Icetex.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Tesoreria.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.csprojAssemblyReference.cache
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.csproj.CopyComplete
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.csprojAssemblyReference.cache
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Services.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Services.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.FabricaCreditos.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Business.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Util.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Microsoft.Web.Services3.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Newtonsoft.Json.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Data.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Imagenes.Data.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.RecaudosMasivos.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Data.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Oracle.DataAccess.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Ahorros.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Icetex.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Tesoreria.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.FabricaCreditos.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Util.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Business.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Newtonsoft.Json.xml
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Seguridad.Data.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Imagenes.Data.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.RecaudosMasivos.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Reporteador.Data.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Ahorros.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Icetex.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\bin\Debug\Xpinn.Tesoreria.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Seguridad.Services\obj\Debug\Xpinn.Seguridad.Services.csproj.CopyComplete

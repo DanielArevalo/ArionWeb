@@ -31,3 +31,15 @@ D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\obj\Debug\X
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\obj\Debug\Xpinn.FabricaCreditos.Data.csproj.ResolveComReference.cache
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\obj\Debug\Xpinn.FabricaCreditos.Data.dll
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\obj\Debug\Xpinn.FabricaCreditos.Data.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.FabricaCreditos.Data.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.FabricaCreditos.Data.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.Comun.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.FabricaCreditos.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.Util.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Microsoft.Web.Services3.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Newtonsoft.Json.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.Comun.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.FabricaCreditos.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Xpinn.Util.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\bin\Debug\Newtonsoft.Json.xml
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.FabricaCreditos.Data\obj\Debug\Xpinn.FabricaCreditos.Data.csproj.CopyComplete

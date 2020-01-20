@@ -78,7 +78,7 @@ namespace Xpinn.FabricaCreditos.Data
 
                         if (pTiposDocumento.Textos != null)
                         {
-                            ActualizarImagen(pTiposDocumento, pUsuario);
+                         
                         }
                         return pTiposDocumento;
                     }
@@ -133,7 +133,7 @@ namespace Xpinn.FabricaCreditos.Data
                         cmdTransaccionFactory.ExecuteNonQuery();
                         if (pTiposDocumento.Textos != null)
                         {
-                            ActualizarImagen(pTiposDocumento, pUsuario);
+                            
                         }
                         if (pUsuario.programaGeneraLog)
                             DAauditoria.InsertarLog(pTiposDocumento, "TiposDocumento", pUsuario, Accion.Modificar.ToString()); //REGISTRO DE AUDITORIA
@@ -502,10 +502,6 @@ namespace Xpinn.FabricaCreditos.Data
         }
 
         //Guarda el Html en un byte array
-        public void ActualizarImagen(TiposDocumento ptiposdocueDocumento, Usuario pUsuario)
-        {
-            Xpinn.Imagenes.Data.ImagenesORAData DAImagenes = new Imagenes.Data.ImagenesORAData();
-            DAImagenes.ActualizarImagen(ptiposdocueDocumento.tipo_documento, ptiposdocueDocumento.Textos, pUsuario, "TIPOSDOCUMENTO", "TIPO_DOCUMENTO");
-        }
+       
     }
 }

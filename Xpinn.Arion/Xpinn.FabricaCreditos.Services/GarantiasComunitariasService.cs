@@ -130,7 +130,7 @@ namespace Xpinn.FabricaCreditos.Services
         {
             try
             {
-                return BOGarantias.AplicarPago(numero_reclamacion, fecha_reclamacion, lstReclamaciones, pUsuario, ref Error, ref pCodOpe);
+                return false;
             }
             catch (Exception ex)
             {

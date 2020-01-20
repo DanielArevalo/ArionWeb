@@ -30,7 +30,7 @@ D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\bin\Debug\System.Net.Http.W
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\bin\Debug\Newtonsoft.Json.xml
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\bin\Debug\System.Net.Http.xml
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\bin\Debug\System.Net.Http.WebRequest.xml
-D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\obj\Debug\Xpinn.Util.csprojAssemblyReference.cache
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\obj\Debug\Xpinn.Util.csproj.CopyComplete
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\obj\Debug\Xpinn.Util.dll
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\obj\Debug\Xpinn.Util.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Util\obj\Debug\Xpinn.Util.csprojAssemblyReference.cache

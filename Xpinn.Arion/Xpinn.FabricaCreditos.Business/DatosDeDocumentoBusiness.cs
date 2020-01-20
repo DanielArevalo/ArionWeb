@@ -116,7 +116,7 @@ namespace Xpinn.FabricaCreditos.Business
             {
                 using (TransactionScope ts = new TransactionScope(TransactionScopeOption.Required))
                 {
-                    pEntidad = DADatosDeDocumento.CrearDocSolicitud(pEntidad, pUsuario);
+                    
 
                     ts.Complete();
                 }

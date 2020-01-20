@@ -602,12 +602,12 @@ namespace Xpinn.FabricaCreditos.Business
                     {
                         if (lstDocumentos.Count > 0)
                         {
-                            Xpinn.Imagenes.Data.ImagenesORAData DADocumento = new Imagenes.Data.ImagenesORAData();
+                            
                             foreach (DocumentosAnexos nDocument in lstDocumentos)
                             {
                                 nDocument.numerosolicitud = pNumSolicitud;
                                 DocumentosAnexos pEntidad = new DocumentosAnexos();
-                                pEntidad = DADocumento.CrearDocumentosAnexos(nDocument, vUsuario);
+                            
                             }
                         }
                     }
@@ -659,8 +659,7 @@ namespace Xpinn.FabricaCreditos.Business
         {
             try
             {
-                Xpinn.Imagenes.Data.ImagenesORAData DADocumento = new Imagenes.Data.ImagenesORAData();
-                return DADocumento.ListaDocumentosAnexos(pTipoReferencia, pNumeroSolicitud, tipoProducto, pUsuario);                 
+                return null;
             }
             catch (Exception ex)
             {
@@ -673,8 +672,8 @@ namespace Xpinn.FabricaCreditos.Business
         {
             try
             {
-                Xpinn.Imagenes.Data.ImagenesORAData DADocumento = new Imagenes.Data.ImagenesORAData();
-                return DADocumento.ConsultarDocAnexo(pIdDocumento, pUsuario);
+
+                return null;
             }
             catch (Exception ex)
             {             

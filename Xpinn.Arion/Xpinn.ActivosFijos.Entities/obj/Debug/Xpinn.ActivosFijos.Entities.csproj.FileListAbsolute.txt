@@ -1,0 +1,4 @@
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\bin\Debug\Xpinn.ActivosFijos.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\bin\Debug\Xpinn.ActivosFijos.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\obj\Debug\Xpinn.ActivosFijos.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\obj\Debug\Xpinn.ActivosFijos.Entities.pdb

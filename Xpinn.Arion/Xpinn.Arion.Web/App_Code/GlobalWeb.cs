@@ -8,7 +8,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Xpinn.Util;
 using System.Text;
-
+using Xpinn.Seguridad.Entities;
+using Xpinn.Seguridad.Services;
+using Xpinn.Servicios.Entities;
 using System.IO;
 using Microsoft.Reporting.WebForms;
 using System.Web.UI.HtmlControls;
@@ -19,6 +21,8 @@ using System.Web.UI.HtmlControls;
 public class GlobalWeb : System.Web.UI.Page
 {
     public ExcepcionBusiness BOexcepcion;
+    private Acceso opcionActual;
+    Xpinn.Seguridad.Services.UsuarioService service = new Xpinn.Seguridad.Services.UsuarioService();
 
     protected enum Pagina { Nuevo = 1, Lista = 2, Detalle = 3, Editar = 4, Modificar = 5 };
 
@@ -1037,7 +1041,99 @@ public class GlobalWeb : System.Web.UI.Page
             }
         }
     }
+    public void VisualizarOpciones(string pPrograma, string pTipoPagina)
+    {
+        try
+        {
+            if (Session["usuario"] != null)
+            {
+                opcionActual = ObtenerOpcionActual(pPrograma.Trim());
+                ((Usuario)Session["usuario"]).codOpcionActual = opcionActual.cod_opcion;
 
+                if (opcionActual.generalog == 1)
+                    ((Usuario)Session["usuario"]).programaGeneraLog = true;
+                else
+                    ((Usuario)Session["usuario"]).programaGeneraLog = false;
+
+                if (opcionActual.nombreopcion != null)
+                {
+                    ((Label)Master.FindControl("lblOpcion")).Text = opcionActual.nombreopcion;
+
+                    switch (pTipoPagina)
+                    {
+                        case "A": // Agregar
+                            ((Label)Master.FindControl("lblOpcion")).Text = opcionActual.nombreopcion + " - Nuevo";
+                            ((LinkButton)Master.FindControl("btnGuardar")).Attributes.Add("onClick", "LoadingList()");
+                            break;
+                        case "D": // Detalle
+                            ((Label)Master.FindControl("lblOpcion")).Text = opcionActual.nombreopcion + " - Detalle";
+                            break;
+                        case "E": // Editar
+                            ((Label)Master.FindControl("lblOpcion")).Text = opcionActual.nombreopcion + " - Edicion";
+                            break;
+                        case "L": // Lista
+                            ((Label)Master.FindControl("lblOpcion")).Text = opcionActual.nombreopcion + " - Consulta";
+                            ((LinkButton)Master.FindControl("btnConsultar")).Attributes.Add("onClick", "LoadingList()");
+                            break;
+                        case "G":
+                            ((LinkButton)Master.FindControl("btnGuardar")).Attributes.Add("onClick", "LoadingList()");
+                            break;
+                        default:
+                            break;
+                    }
+
+                    // PERMISO EN OPCION A BOTONES TRANSACCIONALES
+                    if (opcionActual.insertar != 1) Master.FindControl("btnNuevo").Visible = false;
+                    if (opcionActual.modificar != 1) Master.FindControl("btnEditar").Visible = false;
+                    if (opcionActual.borrar != 1) Master.FindControl("btnEliminar").Visible = false;
+                    if (opcionActual.consultar != 1) Master.FindControl("btnConsultar").Visible = false;
+                }
+                else
+                {
+                    Response.Redirect("~/General/Global/noAcceso.htm", false);
+                }
+            }
+            else
+            {
+                if (Session["COD_INGRESO"] != null)
+                {
+                    Ingresos pIngresos = new Ingresos();
+                    pIngresos.cod_ingreso = Convert.ToInt32(Session["COD_INGRESO"].ToString());
+                    pIngresos.fecha_horasalida = DateTime.Now;
+                    service.ModificarUsuarioIngreso(pIngresos, (Usuario)Session["usuario"]);
+                }
+                Response.Redirect("~/General/Global/FinSesion.htm", false);
+            }
+        }
+        catch (Exception ex)
+        {
+            BOexcepcion.Throw("GlobalWeb", "VisualizarOpciones", ex);
+        }
+    }
+    private Acceso ObtenerOpcionActual(string pIdOpcion)
+    {
+        try
+        {
+            Acceso accesos = new Acceso();
+
+            if (Session["accesos"] != null)
+            {
+                List<Acceso> lstAccesos = new List<Acceso>();
+                lstAccesos = (List<Acceso>)Session["accesos"];
+
+                foreach (Acceso ent in lstAccesos)
+                    if (ent.cod_opcion == Convert.ToInt64(pIdOpcion))
+                        accesos = ent;
+            }
+
+            return accesos;
+        }
+        catch (Exception ex)
+        {
+            BOexcepcion.Throw("GlobalWeb", "ObtenerOpcionActual", ex);
+            return null;
+        }
+    }
     public readonly string _tipoOperacionRetiroEnpacto = "1";
     public readonly string _tipoOperacionDepositoEnpacto = "3";    
 

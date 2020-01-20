@@ -41,9 +41,9 @@ namespace Xpinn.FabricaCreditos.Business
             {
                 using (TransactionScope ts = new TransactionScope(TransactionScopeOption.Required))
                 {
-                    Imagenes.Data.ImagenesORAData DAImagenesCre = new Imagenes.Data.ImagenesORAData();
+                    
 
-                    credito = DAImagenesCre.CrearCreditoPreAnalisis(credito, usuario);
+                  
 
                     ts.Complete();
                 }
