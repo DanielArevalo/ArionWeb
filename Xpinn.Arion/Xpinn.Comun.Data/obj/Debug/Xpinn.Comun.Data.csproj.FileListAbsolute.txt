@@ -1,0 +1,26 @@
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Data.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Data.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Xpinn.Util.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Microsoft.Web.Services3.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Xpinn.Util.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.csproj.CopyComplete
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.csprojAssemblyReference.cache
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.csprojAssemblyReference.cache
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Data.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Data.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Xpinn.Util.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Microsoft.Web.Services3.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Newtonsoft.Json.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Xpinn.Comun.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Xpinn.Util.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\bin\Debug\Newtonsoft.Json.xml
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Comun.Data\obj\Debug\Xpinn.Comun.Data.csproj.CopyComplete

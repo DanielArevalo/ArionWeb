@@ -1,0 +1,5 @@
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.FabricaCreditos.Entities\bin\Debug\Xpinn.FabricaCreditos.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.FabricaCreditos.Entities\bin\Debug\Xpinn.FabricaCreditos.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.FabricaCreditos.Entities\obj\Debug\Xpinn.FabricaCreditos.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.FabricaCreditos.Entities\obj\Debug\Xpinn.FabricaCreditos.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.FabricaCreditos.Entities\obj\Debug\Xpinn.FabricaCreditos.Entities.csprojAssemblyReference.cache
