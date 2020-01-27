@@ -79,3 +79,27 @@ D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Comun.Data.pdb
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Newtonsoft.Json.xml
 D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Business\obj\Debug\Xpinn.ActivosFijos.Business.csproj.CopyComplete
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.ActivosFijos.Business.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.ActivosFijos.Business.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.ActivosFijos.Data.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.ActivosFijos.Entities.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Comun.Business.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Comun.Entities.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.FabricaCreditos.Entities.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Util.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Microsoft.Web.Services3.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Comun.Data.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.ActivosFijos.Data.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.ActivosFijos.Entities.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Util.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Comun.Business.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Comun.Entities.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.FabricaCreditos.Entities.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\bin\Debug\Xpinn.Comun.Data.pdb
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\obj\Debug\Xpinn.ActivosFijos.Business.csprojAssemblyReference.cache
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\obj\Debug\Xpinn.ActivosFijos.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\obj\Debug\Xpinn.ActivosFijos.Business.csproj.CopyComplete
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\obj\Debug\Xpinn.ActivosFijos.Business.dll
+C:\Users\Ter-SergioG\Desktop\Nueva carpeta (6)\ArionWeb-master\ArionWeb-master\Xpinn.Arion\Xpinn.ActivosFijos.Business\obj\Debug\Xpinn.ActivosFijos.Business.pdb

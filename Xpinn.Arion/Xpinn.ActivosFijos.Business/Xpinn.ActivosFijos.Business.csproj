@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArticuloBusiness.cs" />
+    <Compile Include="TipoArticuloBusiness.cs" />
+    <Compile Include="AreasBusiness.cs" />
     <Compile Include="ActivosFijosBusiness.cs" />
     <Compile Include="CierreHisActivosFijosBusiness.cs" />
     <Compile Include="ClaseActivoBusiness.cs" />
