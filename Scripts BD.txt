@@ -1,0 +1,97 @@
+
+ create or replace procedure USP_XPINN_COM_AREAS_MOD(p_IdArea in INTEGER,p_DescripcionArea in VARCHAR ,p_IdCentroCosto in  INTEGER)
+ as
+ begin
+ 
+  Update cm_area set DESCRIPCION=p_DescripcionArea, CENTRO_COSTO = p_IdCentroCosto where IdArea = p_IdArea;
+ end;
+
+
+ create or replace procedure USP_XPINN_COM_AREAS_CREAR(p_IdArea in INTEGER,p_DescripcionArea in VARCHAR ,p_IdCentroCosto in  INTEGER)
+ as
+ begin
+ 
+ Insert Into cm_area values (p_IdArea,p_DescripcionArea,p_IdCentroCosto);
+ end;
+
+
+create or replace procedure USP_XPINN_COM_AREAS_ELIMI(p_IdArea in INTEGER)
+ as
+ begin
+ 
+  delete from  cm_area  where IdArea = p_IdArea;
+ end;
+
+
+
+
+
+ create or replace procedure USP_XPINN_COM_TARTICULO_MOD(p_IdTipo_Articulo in INTEGER,p_Descripcion in VARCHAR ,p_Dias_Periodicidad in  INTEGER)
+ as
+ begin
+ 
+  Update cm_tipo_articulo set DESCRIPCION=p_Descripcion , Dias_Periodicidad = p_Dias_Periodicidad where IdTipo_Articulo = p_IdTipo_Articulo;
+ end;
+
+
+ create or replace procedure USP_XPINN_COM_TARTICULO_CREAR(p_IdTipo_Articulo in INTEGER,p_Descripcion   in VARCHAR ,p_Dias_Periodicidad in  INTEGER)
+ as
+ begin
+ 
+ Insert Into cm_tipo_articulo values (p_IdTipo_Articulo,p_Descripcion ,p_Dias_Periodicidad);
+ end;
+
+
+create or replace procedure USP_XPINN_COM_TARTICULO_ELIMI(p_IdTipo_Articulo  in INTEGER)
+ as
+ begin
+ 
+  delete from  cm_tipo_articulo where IdTipo_Articulo = p_IdTipo_Articulo;
+ end;
+
+
+ create or replace procedure USP_XPINN_COM_ARTICULO_MOD(p_IdArticulo in Integer,p_Serial in VARCHAR ,p_Descripcion  in VARCHAR  ,p_IdTipo_Articulo in Integer ,p_referencia  in VARCHAR  ,p_marca   in VARCHAR )
+ as
+ begin
+ 
+  Update cm_articulo set DESCRIPCION=p_Descripcion , Serial = p_Serial,  IdTipo_Articulo= p_IdTipo_Articulo,marca = p_marca ,referencia = p_referencia where IdArticulo = p_IdArticulo;
+ end;
+
+
+ create or replace procedure USP_XPINN_COM_ARTICULO_CREAR(p_IdArticulo in Integer,p_Serial in VARCHAR ,p_Descripcion  in VARCHAR  ,p_IdTipo_Articulo in Integer ,p_referencia  in VARCHAR  ,p_marca   in VARCHAR )
+ as
+ begin
+ 
+ Insert Into cm_articulo values (p_IdArticulo,p_Serial ,p_Descripcion,p_IdTipo_Articulo,p_referencia,p_marca);
+ end;
+
+
+create or replace procedure USP_XPINN_COM_ARTICULO_ELIMI(p_IdArticulo  in INTEGER)
+ as
+ begin
+ 
+  delete from  cm_articulo where IdArticulo = p_IdArticulo;
+ end;
+
+
+
+
+
+
+ create or replace procedure USP_XPINN_COM_REQUISICION_CREAR(p_idrequisicion in Integer,p_fecha_requsicion  in Date,p_fecha_est_entrega  in Date  ,p_idarea  in Integer ,p_cod_solicita   in Integer  ,p_destino    in VARCHAR ,
+p_observacion     in VARCHAR,p_cod_usuario_crea     in Integer ,p_fecha_crea     in date,p_estado     in Integer)
+ as
+ begin
+ 
+
+
+
+ Insert Into cm_requisicion
+ values (p_idrequisicion,p_fecha_requsicion,p_fecha_est_entrega,p_idarea ,p_cod_solicita,p_destino ,p_observacion ,p_cod_usuario_crea ,p_fecha_crea,p_estado );
+ end;
+
+
+
+
+
+
