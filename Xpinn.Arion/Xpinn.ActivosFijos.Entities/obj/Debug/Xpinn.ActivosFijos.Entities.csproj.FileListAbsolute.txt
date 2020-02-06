@@ -1,4 +1,5 @@
-D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\bin\Debug\Xpinn.ActivosFijos.Entities.dll
-D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\bin\Debug\Xpinn.ActivosFijos.Entities.pdb
-D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\obj\Debug\Xpinn.ActivosFijos.Entities.dll
-D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.ActivosFijos.Entities\obj\Debug\Xpinn.ActivosFijos.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Entities\bin\Debug\Xpinn.ActivosFijos.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Entities\bin\Debug\Xpinn.ActivosFijos.Entities.pdb
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Entities\obj\Debug\Xpinn.ActivosFijos.Entities.csprojAssemblyReference.cache
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Entities\obj\Debug\Xpinn.ActivosFijos.Entities.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.ActivosFijos.Entities\obj\Debug\Xpinn.ActivosFijos.Entities.pdb

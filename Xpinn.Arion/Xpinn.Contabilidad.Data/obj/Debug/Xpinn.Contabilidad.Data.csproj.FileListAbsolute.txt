@@ -1,0 +1,31 @@
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Contabilidad.Data.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Contabilidad.Data.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Comun.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Contabilidad.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.NIIF.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Tesoreria.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Util.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.FabricaCreditos.Entities.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Microsoft.Web.Services3.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Comun.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Contabilidad.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.NIIF.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Tesoreria.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Util.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.FabricaCreditos.Entities.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.Properties.Resources.resources
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.csproj.GenerateResource.cache
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.pdb
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.csprojAssemblyReference.cache
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.csproj.CopyComplete
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\itextsharp.dll
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\itextsharp.xml
+D:\Desarrollo Expinn\Financial\Xpinn.ArionTES\Xpinn.Contabilidad.Data\bin\Debug\Xpinn.Util.dll.config
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.csprojAssemblyReference.cache
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.Properties.Resources.resources
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.csproj.GenerateResource.cache
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.dll
+D:\DOCUMENTOS\GitHub\ArionWeb\Xpinn.Arion\Xpinn.Contabilidad.Data\obj\Debug\Xpinn.Contabilidad.Data.pdb
